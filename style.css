@@ -1,0 +1,113 @@
+h3{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    margin:0px;
+    padding:10px;
+    font-size: 30px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.model{
+    display: flex;
+    flex-wrap: wrap;
+    left:20%;
+    background-color:whitesmoke;
+    justify-content: space-evenly;
+}
+
+
+
+.content img{
+    position: relative;
+}
+
+.content li,h2{
+    color:#ffffff;
+}
+
+.content h2{
+    position: absolute;
+    top:10%;
+
+}
+
+p{
+    left:100px;
+    padding:20px;
+}
+
+.content li{
+    top:40%
+}
+
+
+#a{
+    border: solid 5px black;
+    margin:20px;
+   
+}
+
+#a:hover iframe{
+    opacity:0.95 ;
+    
+}
+#b:hover iframe{
+    opacity:0.95 ;
+    
+}
+#c:hover iframe{
+    opacity:0.95 ;
+    
+}
+#d:hover iframe{
+    opacity:0.95 ;
+    
+}
+#e:hover iframe{
+    opacity:0.95 ;
+    
+}
+#g:hover iframe{
+    opacity:0.95 ;
+    
+}
+
+
+#b{
+    border: solid 5px black;
+    margin:20px;
+}
+
+#c{
+    border: solid 5px #000000;
+    margin:20px;
+}
+
+#d{
+    border:solid 5px #000000;
+    margin:20px;
+}
+
+#e{
+    border: solid 5px #000000;
+    margin:20px;
+}
+
+#f{
+    border: solid 5px #000000;
+    margin:20px;
+}
+
+#g{
+    border: solid 5px #000000;
+    margin:20px;
+}
+
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
